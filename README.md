@@ -1,6 +1,6 @@
 # Ray-tracing software for mmWave WLAN
 
-This open-source software is based on the NIST QD realization (see [docs/Documentation.pdf](docs/Documentation.pdf).)
+This open-source software is based on the NIST QD realization (see [docs/Documentation.pdf](docs/Documentation.pdf)).
 
 ## Installation
 The software does not require any installation procedure: simply download or clone the repository to your local folders.
