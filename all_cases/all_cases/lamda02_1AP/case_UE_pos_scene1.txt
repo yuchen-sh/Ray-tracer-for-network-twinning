@@ -1,0 +1,24 @@
+All clients' locations: (x, y, z) =
+2.7696	0.8248	0.5944	1	
+10.6783	4.2797	0.6817	0	
+2.7329	7.1352	1.0970	1	
+1.1995	4.4358	1.2370	0		
+7.8446	5.3766	1.1202	1	
+9.2085	3.4135	0.6647	0	
+10.5305	0.5757	1.2422	0	
+2.5390	7.9451	0.9048	1	
+2.3249	4.2463	0.9700	0	
+11.0321	5.0348	0.8707	1	
+6.8764	0.9806	1.3495	0	
+1.7894	4.5951	1.0618	1	
+1.6833	0.9307	0.7976	0	
+2.2708	0.7460	0.5510	1	
+2.4305	1.3511	1.0742	0	
+3.7152	6.5703	0.5898	1		
+8.9898	4.0264	1.0373	0	
+4.5636	5.6732	1.4271	0	
+3.6748	4.7307	0.5627	0	
+9.4462	2.9471	0.7544	0	
+(ignore the last value (0 or 1) in each row above)
+
+Note: when you test each node pair in the scenario, you can set (AP_location, client_location_1), (AP_location, client_location_2), ..., (AP_location, client_location_20), so you need to run the simulation for 20 times since there are 20 client locations as shown above.

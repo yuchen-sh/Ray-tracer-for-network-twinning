@@ -1,0 +1,4 @@
+Room setting: 12m*8m*3m, i.e., (x,y,z) = (12.0, 8.0, 3.0)
+
+AP's location: (x, y, z) = (6.0, 4.0, 3.0)
+
