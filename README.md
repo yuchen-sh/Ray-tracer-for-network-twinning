@@ -6,7 +6,7 @@ This open-source software is based on the NIST QD realization (see [docs/Documen
 The software does not require any installation procedure: simply download or clone the repository to your local folders.
 
 ## How to Run
-* The software is configured to run the WLAN scenarios with cuiboid obstacles.
+* The software is configured to run the WLAN scenarios with cuboid obstacles.
 * Run the `new_runner.m` script
 
 
